@@ -1,0 +1,1 @@
+C:/Users/USER/AppData/Local/Programs/Python/Python38/python.exe -c "from IPython import start_ipython; start_ipython()" "c:/Users/USER/Desktop/Effective Profit Calculation/BazaarHist.py"
